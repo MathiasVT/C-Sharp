@@ -1,0 +1,15 @@
+E:\Stijntjes\My Documents\Visual Studio 2017\Projects\C# Practicum\Prac15\Prac15\bin\Debug\Prac15.exe.config
+E:\Stijntjes\My Documents\Visual Studio 2017\Projects\C# Practicum\Prac15\Prac15\bin\Debug\Prac15.exe
+E:\Stijntjes\My Documents\Visual Studio 2017\Projects\C# Practicum\Prac15\Prac15\bin\Debug\Prac15.pdb
+E:\Stijntjes\My Documents\Visual Studio 2017\Projects\C# Practicum\Prac15\Prac15\obj\Debug\MainWindow.g.cs
+E:\Stijntjes\My Documents\Visual Studio 2017\Projects\C# Practicum\Prac15\Prac15\obj\Debug\App.g.cs
+E:\Stijntjes\My Documents\Visual Studio 2017\Projects\C# Practicum\Prac15\Prac15\obj\Debug\Prac15_MarkupCompile.cache
+E:\Stijntjes\My Documents\Visual Studio 2017\Projects\C# Practicum\Prac15\Prac15\obj\Debug\Prac15_MarkupCompile.lref
+E:\Stijntjes\My Documents\Visual Studio 2017\Projects\C# Practicum\Prac15\Prac15\obj\Debug\MainWindow.baml
+E:\Stijntjes\My Documents\Visual Studio 2017\Projects\C# Practicum\Prac15\Prac15\obj\Debug\Prac15.g.resources
+E:\Stijntjes\My Documents\Visual Studio 2017\Projects\C# Practicum\Prac15\Prac15\obj\Debug\Prac15.Properties.Resources.resources
+E:\Stijntjes\My Documents\Visual Studio 2017\Projects\C# Practicum\Prac15\Prac15\obj\Debug\Prac15.csproj.GenerateResource.Cache
+E:\Stijntjes\My Documents\Visual Studio 2017\Projects\C# Practicum\Prac15\Prac15\obj\Debug\Prac15.csproj.CoreCompileInputs.cache
+E:\Stijntjes\My Documents\Visual Studio 2017\Projects\C# Practicum\Prac15\Prac15\obj\Debug\Prac15.exe
+E:\Stijntjes\My Documents\Visual Studio 2017\Projects\C# Practicum\Prac15\Prac15\obj\Debug\Prac15.pdb
+E:\Stijntjes\My Documents\Visual Studio 2017\Projects\C# Practicum\Prac15\Prac15\obj\Debug\Prac15.csprojResolveAssemblyReference.cache

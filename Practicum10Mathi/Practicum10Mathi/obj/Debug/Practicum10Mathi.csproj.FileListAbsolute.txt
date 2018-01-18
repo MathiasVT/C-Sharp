@@ -1,0 +1,7 @@
+C:\Users\mathi\OneDrive\Documenten\Mobyus Informatica\C Sharp\Practicum10Mathi\Practicum10Mathi\Practicum10Mathi\bin\Debug\Practicum10Mathi.exe.config
+C:\Users\mathi\OneDrive\Documenten\Mobyus Informatica\C Sharp\Practicum10Mathi\Practicum10Mathi\Practicum10Mathi\bin\Debug\Practicum10Mathi.exe
+C:\Users\mathi\OneDrive\Documenten\Mobyus Informatica\C Sharp\Practicum10Mathi\Practicum10Mathi\Practicum10Mathi\bin\Debug\Practicum10Mathi.pdb
+C:\Users\mathi\OneDrive\Documenten\Mobyus Informatica\C Sharp\Practicum10Mathi\Practicum10Mathi\Practicum10Mathi\obj\Debug\Practicum10Mathi.csprojResolveAssemblyReference.cache
+C:\Users\mathi\OneDrive\Documenten\Mobyus Informatica\C Sharp\Practicum10Mathi\Practicum10Mathi\Practicum10Mathi\obj\Debug\Practicum10Mathi.csproj.CoreCompileInputs.cache
+C:\Users\mathi\OneDrive\Documenten\Mobyus Informatica\C Sharp\Practicum10Mathi\Practicum10Mathi\Practicum10Mathi\obj\Debug\Practicum10Mathi.exe
+C:\Users\mathi\OneDrive\Documenten\Mobyus Informatica\C Sharp\Practicum10Mathi\Practicum10Mathi\Practicum10Mathi\obj\Debug\Practicum10Mathi.pdb

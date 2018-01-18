@@ -1,0 +1,7 @@
+C:\Users\mathi\OneDrive\Documenten\Mobyus Informatica\C Sharp\Practicum6Looping\P6Oef1\P6Oef1\bin\Debug\P6Oef1.exe.config
+C:\Users\mathi\OneDrive\Documenten\Mobyus Informatica\C Sharp\Practicum6Looping\P6Oef1\P6Oef1\bin\Debug\P6Oef1.exe
+C:\Users\mathi\OneDrive\Documenten\Mobyus Informatica\C Sharp\Practicum6Looping\P6Oef1\P6Oef1\bin\Debug\P6Oef1.pdb
+C:\Users\mathi\OneDrive\Documenten\Mobyus Informatica\C Sharp\Practicum6Looping\P6Oef1\P6Oef1\obj\Debug\P6Oef1.csprojResolveAssemblyReference.cache
+C:\Users\mathi\OneDrive\Documenten\Mobyus Informatica\C Sharp\Practicum6Looping\P6Oef1\P6Oef1\obj\Debug\P6Oef1.csproj.CoreCompileInputs.cache
+C:\Users\mathi\OneDrive\Documenten\Mobyus Informatica\C Sharp\Practicum6Looping\P6Oef1\P6Oef1\obj\Debug\P6Oef1.exe
+C:\Users\mathi\OneDrive\Documenten\Mobyus Informatica\C Sharp\Practicum6Looping\P6Oef1\P6Oef1\obj\Debug\P6Oef1.pdb

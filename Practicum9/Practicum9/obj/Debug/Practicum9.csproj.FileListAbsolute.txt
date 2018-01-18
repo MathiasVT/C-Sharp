@@ -1,0 +1,7 @@
+C:\Users\mathi\OneDrive\Documenten\Mobyus Informatica\C Sharp\Practicum9\Practicum9\Practicum9\obj\Debug\Practicum9.csprojResolveAssemblyReference.cache
+C:\Users\mathi\OneDrive\Documenten\Mobyus Informatica\C Sharp\Practicum9\Practicum9\Practicum9\obj\Debug\Practicum9.csproj.CoreCompileInputs.cache
+C:\Users\mathi\OneDrive\Documenten\Mobyus Informatica\C Sharp\Practicum9\Practicum9\Practicum9\bin\Debug\Practicum9.exe.config
+C:\Users\mathi\OneDrive\Documenten\Mobyus Informatica\C Sharp\Practicum9\Practicum9\Practicum9\bin\Debug\Practicum9.exe
+C:\Users\mathi\OneDrive\Documenten\Mobyus Informatica\C Sharp\Practicum9\Practicum9\Practicum9\bin\Debug\Practicum9.pdb
+C:\Users\mathi\OneDrive\Documenten\Mobyus Informatica\C Sharp\Practicum9\Practicum9\Practicum9\obj\Debug\Practicum9.exe
+C:\Users\mathi\OneDrive\Documenten\Mobyus Informatica\C Sharp\Practicum9\Practicum9\Practicum9\obj\Debug\Practicum9.pdb

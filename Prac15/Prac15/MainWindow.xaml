@@ -1,0 +1,30 @@
+﻿<Window x:Name="Practicum15" x:Class="Prac15.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Prac15"
+        mc:Ignorable="d"
+        Title="Practicum 15" Height="350" Width="525">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="191*"/>
+            <ColumnDefinition Width="326*"/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="LabelNaamGarage" Content="Garage naam" HorizontalAlignment="Left" Margin="69.95,47,0,0" VerticalAlignment="Top" Width="93" Grid.Column="2"/>
+        <Label x:Name="LabelMerkAuto" Content="Merk" HorizontalAlignment="Left" Margin="25,47,0,0" VerticalAlignment="Top" Width="90" Grid.ColumnSpan="2"/>
+        <Label x:Name="LabelMerkGarage" Content="Garage merk" HorizontalAlignment="Left" Margin="69.95,18,0,0" VerticalAlignment="Top" Width="93" Grid.Column="2"/>
+        <Label x:Name="LabelNummerplaat" Content="Nummerplaat" HorizontalAlignment="Left" Margin="25,18,0,0" VerticalAlignment="Top" Width="90" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="TextNummerplaat" HorizontalAlignment="Left" Height="23" Margin="115,22,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Grid.ColumnSpan="3"/>
+        <TextBox x:Name="TextMerkAuto" HorizontalAlignment="Left" Height="23" Margin="115,47,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Grid.ColumnSpan="3"/>
+        <TextBox x:Name="TextMerkGarage" HorizontalAlignment="Left" Height="23" Margin="167.95,22,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="129" Grid.Column="2"/>
+        <TextBox x:Name="TextNaamGarage" HorizontalAlignment="Left" Height="23" Margin="167.95,47,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="129" Grid.Column="2"/>
+        <Button x:Name="ButtonVoegToeAuto" Content="Voeg toe" HorizontalAlignment="Left" Margin="160,75,0,0" VerticalAlignment="Top" Width="75" Click="ButtonVoegToeAuto_Click" Grid.ColumnSpan="3"/>
+        <Button x:Name="ButtonVoegToeGarage" Content="Voeg toe" HorizontalAlignment="Left" Margin="221.95,75,0,0" VerticalAlignment="Top" Width="75" Click="ButtonVoegToeGarage_Click" Grid.Column="2"/>
+        <Button x:Name="ButtonOverzicht" Content="Overzicht" HorizontalAlignment="Left" Margin="25,120,0,0" VerticalAlignment="Top" Width="75" Click="ButtonOverzicht_Click" Grid.ColumnSpan="2"/>
+        <Button x:Name="ButtonExpertise" Content="Expertise" HorizontalAlignment="Left" Margin="69.95,120,0,0" VerticalAlignment="Top" Width="75" Click="ButtonExpertise_Click" Grid.Column="2"/>
+        <Button x:Name="ButtonReparatie" Content="Reparatie" HorizontalAlignment="Left" Margin="221.95,120,0,0" VerticalAlignment="Top" Width="75" Click="ButtonReparatie_Click" Grid.Column="2"/>
+        <TextBlock x:Name="TextBlockOutput" HorizontalAlignment="Left" Margin="25,145,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="164" Width="463" Grid.ColumnSpan="3" Background="#FFF0F0F0"/>
+    </Grid>
+</Window>
